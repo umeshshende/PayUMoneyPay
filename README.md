@@ -118,7 +118,7 @@ payumoney.sendSMSInvoice(data, function(error, response) {
 
 ---
 ### Submit issues
-You can raise an issue https://github.com/umeshshende/PayUMoneyPay/issues.
+You can raise an issue   [Raise]( https://github.com/umeshshende/PayUMoneyPay/issues).
 
 
 [keys]: https://www.payumoney.com/merchant/settings/#/myaccount
