@@ -1,0 +1,32 @@
+{
+  "name": "payumoneypay",
+  "version": "1.0.5",
+  "description": "The PayUMoney Pay library provides convenient access to the PayUMoney API from applications written in nodejs.",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umeshshende/PayUMoneyPay.git"
+  },
+  "keywords": [
+    "payumoney",
+    "request",
+    "payumoneypay",
+    "finance"
+  ],
+  "author": "Umesh Shende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umeshshende/PayUMoneyPay/issues"
+  },
+  "homepage": "https://github.com/umeshshende/PayUMoneyPay#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "multer": "^1.3.0",
+    "payumoney-pay": "^1.0.4"
+  }
+}
